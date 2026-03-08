@@ -185,3 +185,13 @@ The system will start monitoring the driver using the camera.
 This project demonstrates how **Artificial Intelligence and Computer Vision** can be used to improve road safety by detecting driver drowsiness in real time.
 
 Such intelligent monitoring systems can help reduce accidents and enhance the safety of modern transportation systems.
+
+## License
+
+This project uses materials licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+
+
+
+
+
