@@ -138,13 +138,13 @@ pip install numpy
 
 # Running the Application
 
-Start the Flask server:
+click open in terminal where you save all the above files there you type below:
 
 python app.py
 
-After running the server, open your browser and go to:
+After running , open link in end:
 
-http://localhost:5000
+e.g: http://localhost:5000
 
 The system will start monitoring the driver using the camera.
 
